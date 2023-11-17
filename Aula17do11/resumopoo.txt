@@ -11,3 +11,11 @@ controla os acessos a dados de modo que não fiquem vulneravéis a ações indev
 daí o nome herança, classes que herdam atributos e comportamentos de outra classe maior.
 
 -Polimorfismo: É a propriedade que permite as abstrações criadas se transformarem, se comportarem de maneira diferente em outras partes do código
+
+
+
+
+FAÇA UM PROGRAMA QUE PEÇA AO USUÁRIO QUAL POLIGONO ELE QUER CALCULAR A ÁREA, COM A BASE E A ALTURA INFORMADAS.
+CALCULE DE ACORDO COM O POLIGONO DESEJADO (RETANGULO, QUADRADO OU TRIANGULO EQUILATERO)
+VOCÊ PODE ADCIONAR MAIS POLIGONOS DIFERENTES AO PROGRAMA!
+E DEPOIS EXIBA NA TELA A BASE, A ALTURA, O POLIGONO, E O RESULTADO DA ÁREA.
