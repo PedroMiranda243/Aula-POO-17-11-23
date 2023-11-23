@@ -28,7 +28,7 @@ public class Trabalhador extends Humano {
     }
 
     // Essa anotação @Override indica que, o mesmo método "seApresenta"
-    // funcionará de maneira diferente nesa classe.
+    // funcionará de maneira diferente nessa classe.
     @Override
     public void seApresenta() {
         System.out.println("Trabalho como " + profissao);
